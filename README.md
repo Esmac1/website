@@ -1,3 +1,13 @@
+# GITBASH - To access local git repo. Already installed.
+![GITBASH](img/gitbash_website_localdir.jpg)
+
+# GITHUB - To show github central-hub contain website repo
+![GITBASH](img/github_web_v1.jpg)
+
+
+
+
+
 # Website Project
 
 This is a collaborative website project.
@@ -31,6 +41,9 @@ Although I'm the sole developer, I simulated a multi-user (user1 as Tom while us
 ## Collaboration Example
 
 - **User1** created branch `update-navigation` and added a navigation bar to `index.html`.
+
+![user1-footer](img/gitcheckout_update-navigation.jpg)
+
 ![user1-footer](img/git-user1-index-footer.jpg)
 
 ![user1-footer](img/pull-mergerequest-user1-update-nav.jpg)
@@ -43,6 +56,9 @@ Although I'm the sole developer, I simulated a multi-user (user1 as Tom while us
 - **User2** created branch `add-contact-info` and added a updated section to `index.html`.
 - User1's branch was merged into `main` first.
 - User2 pulled latest changes from `main`, resolved merge conflicts, and then merged their updates into `main`.
+
+![user2-footer](img/gitcheckout_contact_info.jpg)
+
 ![user2-footer](img/git-user2-newlinetofooter.jpg)
 
 ![user2-footer](img/gitconflict-user2.jpg)
