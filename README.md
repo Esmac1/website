@@ -31,18 +31,23 @@ Although I'm the sole developer, I simulated a multi-user (user1 as Tom while us
 ## Collaboration Example
 
 - **User1** created branch `update-navigation` and added a navigation bar to `index.html`.
-![user1-footer](img/git-user1-index-footer.jpeg)
-![user1-footer](img/pull-mergerequest-user1-update-nav.jpeg)
-![user1-footer](img/user1-pull-request-merged.jpeg)
-![user1-footer](img/pull-success-user1.jpeg)
+![user1-footer](img/git-user1-index-footer.jpg)
+
+![user1-footer](img/pull-mergerequest-user1-update-nav.jpg)
+
+![user1-footer](img/user1-pull-request-merged.jpg)
+
+![user1-footer](img/pull-success-user1.jpg)
 
 
 - **User2** created branch `add-contact-info` and added a updated section to `index.html`.
 - User1's branch was merged into `main` first.
 - User2 pulled latest changes from `main`, resolved merge conflicts, and then merged their updates into `main`.
-![user2-footer](img/git-user2-newlinetofooter.jpeg)
-![user2-footer](img/gitconflict-user2.jpeg)
-![user2-footer](img/user2pushnewline.jpeg)
+![user2-footer](img/git-user2-newlinetofooter.jpg)
+
+![user2-footer](img/gitconflict-user2.jpg)
+
+![user2-footer](img/user2pushnewline.jpg)
 
 ---
 
